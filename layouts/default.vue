@@ -4,6 +4,7 @@
 
 <template>
     <div class="wrapper">
-        <h1>Это основной Layout</h1>
+        <Navigation />
+        <Hero titlePage="Новая страница" />
     </div>
 </template>

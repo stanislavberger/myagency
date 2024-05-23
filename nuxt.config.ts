@@ -7,5 +7,6 @@ export default defineNuxtConfig({
   primevue: {
       /* Options */
   },
-  css: ['primevue/resources/themes/aura-light-green/theme.css']
+  css: ['primevue/resources/themes/aura-light-green/theme.css', 
+        './assets/styles.css']
 })
